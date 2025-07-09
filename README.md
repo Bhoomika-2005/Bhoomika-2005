@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Bhoomika A</h1>
 <h3 align="center">BE Computer Science Student | Aspiring Software Engineer | Passionate Developer</h3>
 
+<h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Risheek!;BE+Computer+Science+Student+%7C+ Aspiring+Software +Engineer+%26;Crafting+clean+code+and+APIs+🚀" alt="Typing SVG" />
+</p>
+</h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhoomika-a-2k5&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomika-a-2k5" />
 </p>
@@ -12,10 +18,9 @@
 - 🔭 I worked as a **Junior Software Engineer** at **Ants Applied DataScience**
 - 👩‍💻 I’m also contributing as an **Assistant Python Developer**
 - 🎓 Pursuing **BE in Computer Science Engineering** at Dayananda Sagar College of Engineering (2024-2027)
-- 📫 Reach me at: **[bhoomika.a.2k5@gmail.com](mailto:bhoomika.a.2k5@gmail.com)**
+- 📫 Reach me at: **[bhoomikaa.tech@gmail.com](mailto:bhoomikaa.tech@gmail.com)**
 - 💬 Ask me about **C, Java, Python, OOPs**
-- 📸 Fun Fact: I enjoy posting tech reels on [Instagram](https://www.instagram.com/bhoomika_a_2005?igsh=MXVtZXlpNWF2bGVoMQ==)
-
+- 📸 Fun Fact: I enjoy posting tech reels on [Instagram]
 ---
 
 ### 🛠️ Languages & Tools
