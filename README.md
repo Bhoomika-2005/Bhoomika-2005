@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Bhoomika A</h1>
 <h3 align="center">BE Computer Science Student | Aspiring Software Engineer | Passionate Developer</h3>
@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working as a **Junior Software Engineer** at **Ants Applied DataScience**
+- 🔭 I worked as a **Junior Software Engineer** at **Ants Applied DataScience**
 - 👩‍💻 I’m also contributing as an **Assistant Python Developer**
 - 🎓 Pursuing **BE in Computer Science Engineering** at Dayananda Sagar College of Engineering (2024-2027)
 - 📫 Reach me at: **[bhoomika.a.2k5@gmail.com](mailto:bhoomika.a.2k5@gmail.com)**
@@ -33,8 +33,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-a-2k5&show_icons=true&locale=en" alt="bhoomika-a-2k5" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika-a-2k5" alt="bhoomika-a-2k5" />
-</p>
