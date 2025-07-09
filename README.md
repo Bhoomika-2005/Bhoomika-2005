@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Bhoomika-2005/Bhoomika-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Bhoomika A</h1>
+<h3 align="center">BE Computer Science Student | Aspiring Software Engineer | Passionate Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhoomika-a-2k5&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomika-a-2k5" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working as a **Junior Software Engineer** at **Ants Applied DataScience**
+- 👩‍💻 I’m also contributing as an **Assistant Python Developer**
+- 🎓 Pursuing **BE in Computer Science Engineering** at Dayananda Sagar College of Engineering (2024-2027)
+- 📫 Reach me at: **[bhoomika.a.2k5@gmail.com](mailto:bhoomika.a.2k5@gmail.com)**
+- 💬 Ask me about **C, Java, Python, OOPs**
+- 📸 Fun Fact: I enjoy posting tech reels on [Instagram](https://www.instagram.com/bhoomika_a_2005?igsh=MXVtZXlpNWF2bGVoMQ==)
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP%20Concepts-6DB33F?style=for-the-badge&logo=oop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-a-683236311)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-a-2k5&show_icons=true&locale=en" alt="bhoomika-a-2k5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika-a-2k5" alt="bhoomika-a-2k5" />
+</p>
